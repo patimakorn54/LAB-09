@@ -126,3 +126,12 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 ##คำถาม/แบบฝึกหัดท้ายการทดลอง
 * ให้เปลี่ยน Color และ HatchStyle เป็นแบบต่างๆ เพื่อดูความเปลี่ยนแปลง 
  * เลือกรูปแบจาก [MSDN: HatchStyle Enumeration](https://msdn.microsoft.com/en-us/library/system.drawing.drawing2d.hatchstyle(v=vs.110).aspx) แล้ววาดภาพมาส่งอย่างน้อย 6 รูปแบบ 
+ 
+ ![](https://github.com/patimakorn54/LAB-09/blob/master/imgs/Capture8.JPG?raw=true)
+ ![](https://github.com/patimakorn54/LAB-09/blob/master/imgs/Capture9.JPG?raw=true)
+ ![](https://github.com/patimakorn54/LAB-09/blob/master/imgs/Capture10.JPG?raw=true)
+ ![](https://github.com/patimakorn54/LAB-09/blob/master/imgs/Capture11.JPG?raw=true)
+ ![](https://github.com/patimakorn54/LAB-09/blob/master/imgs/Capture12.JPG?raw=true)
+ ![](https://github.com/patimakorn54/LAB-09/blob/master/imgs/Capture13.JPG?raw=true)
+ 
+ 
